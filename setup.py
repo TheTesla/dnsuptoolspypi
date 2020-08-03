@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dnsuptools",
-    version="0.0.12",
+    version="0.0.13",
     author="Stefan Helmert",
     author_email="stefan.helmert@t-online.de",
     description="Library interfaces to dns service api for query, update, add, delete comfortably.",
